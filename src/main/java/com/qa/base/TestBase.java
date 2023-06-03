@@ -11,7 +11,6 @@ public class TestBase {
 	
 	public TestBase() {
 		
-		int i = 10;
 		
 		try {
 			prop = new Properties();
